@@ -1,6 +1,6 @@
-#0x00. Python - Hello, World
+# 0x00. Python - Hello, World
 
-##Resource
+## Resource
 
 The Python Tutorial (only the first three chapters below)
 Whetting Your Appetite
@@ -8,7 +8,7 @@ Using the Python Interpreter
 An Informal Introduction to Python (Read up until “3.1.2. Strings” included)
 How to use string formatters in Python 3
 
-##Tasks
+## Tasks
 
 Run Python file : Write a Shell script that runs a Python script.
 
